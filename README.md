@@ -101,7 +101,6 @@ D'après l'analyse approfondie du modèle Random Forest, les features les plus i
 
 # 1. Cloner le repository
 git clone https://github.com/riyad4589/FRAUDE-BANCAIRE-PAR-IA.git
-cd Dashboard-Anti-Fraude
 
 # 2. Installer les dépendances
 pip install -r requirements.txt
