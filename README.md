@@ -100,7 +100,7 @@ D'après l'analyse approfondie du modèle Random Forest, les features les plus i
 ## 🚀 **INSTALLATION ET UTILISATION LOCALE**
 
 # 1. Cloner le repository
-git clone https://github.com/YOUSSEFBT369/Dashboard-Anti-Fraude.git
+git clone https://github.com/riyad4589/FRAUDE-BANCAIRE-PAR-IA.git
 cd Dashboard-Anti-Fraude
 
 # 2. Installer les dépendances
